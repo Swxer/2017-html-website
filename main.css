@@ -122,6 +122,7 @@ footer {
 	margin-left: 20px;
 	margin-bottom: 200px;
 	padding-bottom: 20px;
+	margin-top: 200px
 	}
 
 .test10 {
@@ -133,6 +134,7 @@ footer {
 	background-color: rgba(232, 49, 59, 0.6);
 	margin-left: 100px;
 	margin-bottom: 50px;
+	margin-top: 200px
 }
 
 .test2 {
@@ -144,17 +146,19 @@ footer {
 	margin-left: 20px;
 	margin-bottom: 100px;
 	padding-bottom: 20px;
+	margin-top: 200px
 }
 
 .test3 {
-		width: 450px;
+		width: 700px;
 	border: 2px solid skyblue;
     border-radius: 15px;
 	padding-top: 20px;
 	background-color: rgba(46, 255, 178, 0.6);
-	margin-left: 260px;
+	margin-left: 160px;
 	margin-bottom: 100px;
 	padding-bottom: 20px;
+	margin-top: 200px;
 }
 
 .test4 {
@@ -166,6 +170,7 @@ footer {
 	margin-left: 20px;
 	margin-bottom: 20px;
 	padding-bottom: 20px;
+	margin-top: 200px
 }
 
 .test5{
@@ -177,10 +182,12 @@ footer {
 	margin-left: 20px;
 	margin-bottom: 200px;
 	padding-bottom: 20px;
+	margin-top: 200px
 }
 .banner {
-	margin-top: -20px;
+	margin-top: 20px;
 	margin-bottom: -35px;
+	position: absolute;
 
 }
 
@@ -193,6 +200,7 @@ footer {
 	margin-left: 20px;
 	margin-bottom: 150px;
 	padding-bottom: 20px;
+	margin-top: 200px
 }
 
 .test7 {
@@ -204,6 +212,7 @@ footer {
 	margin-left: 20px;
 	margin-bottom: 200px;
 	padding-bottom: 20px;
+	margin-top: 200px
 }
 
 .test8 {
@@ -216,6 +225,7 @@ footer {
 	margin-left: 20px;
 	margin-bottom: 100px;
 	padding-bottom: 20px;
+	margin-top: 200px
 	
 }
 .wifi {
@@ -225,9 +235,6 @@ footer {
 .sputnik {
 	margin-left: 150px;
 	}
-
-display {
-	display: left;
 }
 
 .biblio {
@@ -236,4 +243,9 @@ display {
 
 .robber {
 	margin-left: 100px;
+}
+
+.width p {
+	width: 600px;
+	
 }
